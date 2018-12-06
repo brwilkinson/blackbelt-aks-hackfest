@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        BRW Azure Cloud Admin. v4
+        BRW Azure Cloud Admin. v5
       </div>
       <div class="col-lg-6">
       </div>
